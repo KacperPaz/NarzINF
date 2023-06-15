@@ -1,1 +1,1 @@
-Prace nad Gitem rozpoczęły się po tym, jak BitKeeper, używany wtedy do rozwoju Linuksa, przestał być darmowy dla projektów o otwartym kodzie źródłowym. Torvalds szukał rozproszonego systemu kontroli wersji, który mógłby być użyty zamiast BitKeepera
+Tak naprawdę to Gita nikt nie potrzebuje i nie używa . W sumie to nikt nie wie po co to wymyślono , ale jest i trzeba z tym żyć
